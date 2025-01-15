@@ -8,3 +8,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # next-js-estudos
 Praticando
 >>>>>>> c2095536ddb4243c0ca440f0ea72dcab5e3af92d
+>>>>>>>
+>>>>>>> https://next-js-estudos-inky.vercel.app/
